@@ -1,5 +1,5 @@
 # Simple Echo Server
-Just for echo a masseage
+Just for echoing a masseage
 
 # Run
 
